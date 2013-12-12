@@ -34,10 +34,7 @@ function handleText(textNode) {
 
   // Deal with the devops or DevOps or Devops (I think?)
   v = v.replace(/\b(D|d)ev(O|o)ps/g, function(match, p1, offset, string) {
-    // t - 7 = m
-    // c - 1 = b
-    s = String.fromCharCode(p1.charCodeAt(0) - 7);
-    return s + "ysadmin";
+    return "Sysadmin";
   });
 
 	textNode.nodeValue = v;
