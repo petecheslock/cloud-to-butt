@@ -1,26 +1,16 @@
-Cloud To Butt Plus
+Devops To Sysadmin Plugin
 =============
 
-Chrome extension that replaces occurrences of 'the cloud' with 'my butt', and other amusing cloud-related substitutions.
+Chrome extension that replaces occurrences of 'devops' with 'sysadmin'.
 
-[Direct download of crx file](https://github.com/hank/cloud-to-butt/blob/master/CloudToButt.crx?raw=true)
+Forked from https://github.com/hank/cloud-to-butt
 
-Screenshot Gallery
-------------------
+This plugin lowers my blood pressure when people say 'devops' but really mean 'sysadmin'
 
-http://www.flickr.com/groups/cloud-to-butt/
+I'm looking at you rackspace:  www.rackspace.com/devops/
 
 Installation
 ------------
 
 In Chrome, choose Window > Extensions.  Drag CloudToButt.crx into the page that appears.
 
-Safari Version
---------------
-
-Can be found here: https://github.com/logancollins/cloud-to-butt-safari
-
-Firefox Version
----------------
-
-Can be found here: https://github.com/DaveRandom/cloud-to-butt-mozilla
