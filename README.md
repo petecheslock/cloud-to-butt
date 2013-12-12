@@ -7,7 +7,7 @@ Forked from https://github.com/hank/cloud-to-butt
 
 This plugin lowers my blood pressure when people say 'Sysadmin' but really mean 'sysadmin'
 
-I'm looking at you rackspace:  www.rackspace.com/Sysadmin/
+I'm looking at you rackspace:  www.rackspace.com/devops/
 
 Installation
 ------------
