@@ -13,6 +13,10 @@ This plugin lowers my blood pressure when people say 'DevOps' but really mean 's
 
 I'm looking at you rackspace:  www.rackspace.com/devops/
 
+Here are 2 Screenshots:
+DevOps: http://i.imgur.com/K6zEdLm.png
+Sysadmin:  http://i.imgur.com/rl5QGgO.png
+
 Installation
 ------------
 
