@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 	"name": "Devops To Sysadmin",
-	"version": "1.0",
+	"version": "1.1",
 	"description": "Replaces the text 'Devops' with 'Sysadmin'",
 	"content_scripts":
 	[
