@@ -1,16 +1,16 @@
-Devops To Sysadmin Plugin
+Sysadmin To Sysadmin Plugin
 =============
 
-Chrome extension that replaces occurrences of 'devops' with 'sysadmin'.
+Chrome extension that replaces occurrences of 'Sysadmin' with 'sysadmin'.
 
 Forked from https://github.com/hank/cloud-to-butt
 
-This plugin lowers my blood pressure when people say 'devops' but really mean 'sysadmin'
+This plugin lowers my blood pressure when people say 'Sysadmin' but really mean 'sysadmin'
 
-I'm looking at you rackspace:  www.rackspace.com/devops/
+I'm looking at you rackspace:  www.rackspace.com/Sysadmin/
 
 Installation
 ------------
 
-In Chrome, choose Window > Extensions.  Drag CloudToButt.crx into the page that appears.
+In Chrome, choose Window > Extensions.  Drag DevopsToSysadmin.crx into the page that appears.
 
